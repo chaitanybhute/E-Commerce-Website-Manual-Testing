@@ -1,6 +1,6 @@
 E-Commerce Website (Manual Testing)
 
-This project demonstrates manual testing performed on an open-source e-commerce website (like OpenCart Demo). It includes well-documented test cases, bug reports, screenshots, and a final summary report.
+This project demonstrates manual testing performed on an open-source e-commerce website (like OpenCart Demo) Link-https://demo.opencart.com/ . It includes well-documented test cases, bug reports, screenshots, and a final summary report.
 
 ## 🔍 Project Scope
 - Functional Testing
